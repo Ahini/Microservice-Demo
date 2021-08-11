@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Aug 02 14:39:31 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017b-0620-175e-000006c91c40 
+on database directory memory:D:\ERSTE\API - Management\New folder\user-management-service\user-management-service\target\020181b5-ed3a-426b-b6a5-cfcfc45cc523 with class loader org.springframework.boot.loader.LaunchedURLClassLoader@23ab930d 
+Loaded from jar:file:/D:/ERSTE/API%20-%20Management/New%20folder/user-management-service/user-management-service/target/user-management-service-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.14.2.0.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.1+9-24
+user.dir=D:\ERSTE\API - Management\New folder\user-management-service\user-management-service\target
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
